@@ -13,6 +13,9 @@ GEO (Generative Engine Optimization) is the practice of optimizing your brand's 
 | `台灣GEO完整方案.md` | **Main Strategy Document** — Full Taiwan GEO strategy covering market analysis, channel strategy, technical implementation (JSON-LD Schema), content templates, pricing, social media, growth hacking, 90-day roadmap, and compliance |
 | `台灣GEO專家補充_銷售與獲客.md` | **Sales & Growth Supplement** — Detailed sales scripts, objection handling, viral loop design, partnership strategy, and week-by-week sprint plan |
 | `GEO_Taiwan_Marketing_Plan.md` | **Client Marketing Plan** — B2B client-facing marketing plan with pain point analysis, service packaging (3 tiers), content funnel, and 15-page PPT outline |
+| `GEO_Taiwan_投資人方案.md` | **Investor Strategy** — Full fundraising playbook: market sizing (TAM/SAM/SOM), business model, unit economics (LTV:CAC 30-60x), 5 competitive moats, 3-year financial projections, Taiwan VC target list, and investor Q&A |
+| `GEO_Investor_Pitch.pptx` | **Investor Pitch Deck** — 10-slide dark-tech-style pitch deck covering problem, solution, market, business model, moat, roadmap, financials, comparables, and the ask (NT$10-20M Pre-Seed/Seed) |
+| `GEO_Taiwan_Proposal.pptx` | **Client Proposal Deck** — 15-slide client-facing presentation with service overview, 3-layer AI logic, 5-step methodology, 30/60/90 day milestones, and 3-tier pricing |
 
 ## Key Components
 
