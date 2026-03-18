@@ -14,6 +14,7 @@ GEO (Generative Engine Optimization) is the practice of optimizing your brand's 
 | `台灣GEO專家補充_銷售與獲客.md` | **Sales & Growth Supplement** — Detailed sales scripts, objection handling, viral loop design, partnership strategy, and week-by-week sprint plan |
 | `GEO_Taiwan_Marketing_Plan.md` | **Client Marketing Plan** — B2B client-facing marketing plan with pain point analysis, service packaging (3 tiers), content funnel, and 15-page PPT outline |
 | `GEO_Taiwan_投資人方案.md` | **Investor Strategy** — Full fundraising playbook: market sizing (TAM/SAM/SOM), business model, unit economics (LTV:CAC 30-60x), 5 competitive moats, 3-year financial projections, Taiwan VC target list, and investor Q&A |
+| `AI_Search_Visibility_MVP_GTM_Plan.md` | **Productized AI Search Visibility Plan** — Landing page positioning, 90-day MVP scope, and first-20 seed customer GTM plan for indie SaaS / AI tool founders |
 | `GEO_Investor_Pitch.pptx` | **Investor Pitch Deck** — 10-slide dark-tech-style pitch deck covering problem, solution, market, business model, moat, roadmap, financials, comparables, and the ask (NT$10-20M Pre-Seed/Seed) |
 | `GEO_Taiwan_Proposal.pptx` | **Client Proposal Deck** — 15-slide client-facing presentation with service overview, 3-layer AI logic, 5-step methodology, 30/60/90 day milestones, and 3-tier pricing |
 
@@ -22,6 +23,7 @@ GEO (Generative Engine Optimization) is the practice of optimizing your brand's 
 - **Market Analysis**: Taiwan AI usage landscape (ChatGPT ~55%, Gemini ~20%, Perplexity ~8%)
 - **Channel Priority Matrix**: 6-tier channel strategy from official website to social media
 - **Technical Implementation**: Complete JSON-LD Schema code examples, robots.txt config, AI crawler optimization
+- **Productization Plan**: AI Search Visibility audit product positioning, MVP scope, and seed-customer GTM motion
 - **Content Templates**: Article structure formulas, keyword matrix, FAQ frameworks
 - **Service Packaging**: 3-tier pricing (NT$25K / NT$50K / NT$120K monthly)
 - **Sales Playbook**: 3 versions of 30-second openers, 5-step live demo script, 4 case study frameworks
